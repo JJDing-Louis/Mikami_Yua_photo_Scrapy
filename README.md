@@ -31,9 +31,4 @@ for link in results:
      time.sleep(1)
      i+=1
 print("下載完成!")
-
-
-
-
-
 ```
